@@ -1,7 +1,11 @@
 # Optimization-of-modern_ml_algos
 
 The folder contains several summaries of the latest optimization techniques being applied in machine learning algorithms.
+
+
 Links to all papers:
+
+
 Nestrov. Introductory Lectures on Convex Programming. 1998. (Sections 2.1.1 and 2.1.5)
 Bottou et al. Optimization Methods for Large-Scale Machine Learning. Siam 2018. (Sections 2.1 and 2.2)
 Stochastic method	
